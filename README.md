@@ -6,3 +6,5 @@ experience. The application is designed to handle basic validation and provide a
 users who want to manage expenses with minimal hassle.
 
 ![Screenshot 2024-11-02 173630](https://github.com/user-attachments/assets/3c8ef851-630d-477e-9ca4-a419f4920330)
+
+![Screenshot 2024-11-02 173827](https://github.com/user-attachments/assets/ad913dc7-05c4-4207-9599-74e8c44fa860)
